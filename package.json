@@ -4,10 +4,10 @@
   "description": "Virtulize any DOM node and turn it into a virtual-dom node.",
   "main": "index.js",
   "dependencies": {
-    "vtree": "0.0.15"
+    "vtree": "0.0.16"
   },
   "devDependencies": {
-    "vtree": "0.0.15"
+    "vtree": "0.0.16"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
